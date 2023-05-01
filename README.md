@@ -33,4 +33,4 @@ conda install universal-data-augmentation
 ## 10. Cutout
 ### Info: Randomly fill the randomly sized area of an image.
 ## 11. HAS
-### Info: Divide the image into $S×S$ grids, randomly filling a random number of grids with (random) pixels.
+### Info: Divide the image into $S×S(S>=5)$ grids, randomly filling a random number of grids with (random) pixels.
