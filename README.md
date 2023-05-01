@@ -12,3 +12,15 @@ Or use conda:
 conda install universal-data-augmentation
 ```
 # Method
+## 1. Rotation
+### Info: Rotate the image to a random angle.
+## 2. Translation
+### Info: Translate the image in a specific direction(x axis, y axis or both).
+## 3. Shear
+### Info: Move one part of the image in one direction and the other part in the opposite direction.
+## 4. Flip
+### Info: Flip the image horizontally or vertically(Or randomly).
+## 5. Clip
+### Info: 
+## 6. Noise
+### Info: Add noise for image.(Support salt noise, gaussian noise, rayleigh noise, gamma noise, exponential noise, uniform noise)
