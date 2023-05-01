@@ -24,3 +24,13 @@ conda install universal-data-augmentation
 ### Info: 
 ## 6. Noise
 ### Info: Add noise for image.(Support salt noise, gaussian noise, rayleigh noise, gamma noise, exponential noise, uniform noise)
+## 7. 
+### Info: 
+## 8. Disturbance
+### Info: Change the brightness, contrast, saturation, and hue of an image.
+## 9. Kernal filter
+### Info: 
+## 10. Cutout
+### Info: Randomly fill the randomly sized area of an image.
+## 11. HAS
+### Info: Divide the image into $S×S$ grids, randomly filling a random number of grids with (random) pixels.
